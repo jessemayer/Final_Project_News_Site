@@ -25,7 +25,7 @@ function App() {
         </Routes>
       </div>
 
-      {/* This is the outlet for all your routes!*/}
+      {/* This is the outlet for all of the routes!*/}
       <div className='outlet-window'> 
         <Outlet />
       </div>
